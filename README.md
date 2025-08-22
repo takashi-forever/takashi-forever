@@ -44,17 +44,24 @@
   <div style="margin-top:30px;">
     <h2>📫 Hubungi Aku</h2>
     <p>
-      <a href="mailto:bell@example.com" style="text-decoration:none;">
-        <img src="https://img.icons8.com/color/48/000000/gmail.png" width="32" style="vertical-align:middle;"/> Email
+      <a href="mailto:famplanbell@gmail.com" style="text-decoration:none;">
+        <img src="https://img.icons8.com/color/48/000000/gmail.png" width="32" style="vertical-align:middle;"/> famplanbell@gmail.com
       </a>
       &nbsp; | &nbsp;
-      <a href="https://github.com/belllast" style="text-decoration:none;">
-        <img src="https://img.icons8.com/glyph-neue/64/000000/github.png" width="32" style="vertical-align:middle;"/> GitHub
+      <a href="https://github.com/takashi-forever" style="text-decoration:none;">
+        <img src="https://img.icons8.com/glyph-neue/64/000000/github.png" width="32" style="vertical-align:middle;"/> takashi-forever
       </a>
     </p>
   </div>
 
+  <!-- GitHub Stats -->
+  <div style="margin-top:40px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=takashi-forever&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius:12px;"/>
+    <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takashi-forever&layout=compact&theme=radical" alt="Top Languages" style="border-radius:12px;"/>
+  </div>
+
   <!-- Footer -->
   <hr style="margin:40px 0;border:none;height:1px;background:#ddd;"/>
-  <p style="font-size:0.9em;color:#888;">© 2025 Bella | Dibuat dengan ❤️ dan sedikit kode HTML + SVG</p>
+  <p style="font-size:0.9em;color:#888;">© 2025 Bella | Dibuat dengan ❤️ HTML + SVG di GitHub</p>
 </div>
