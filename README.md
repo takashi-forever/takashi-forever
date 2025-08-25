@@ -1,6 +1,6 @@
 <div align="center" style="font-family: Arial, sans-serif;">
 
-  <img src="https://files.cloudkuimages.guru/images/FiNWpA0X.jpg" alt="Bella Profile" width="180" style="border-radius:50%;box-shadow:0 0 15px rgba(0,0,0,0.3);margin-bottom:15px;"/>
+  <img src="http://cnd.abella.icu/xeU" alt="Bella Profile" width="180" style="border-radius:50%;box-shadow:0 0 15px rgba(0,0,0,0.3);margin-bottom:15px;"/>
 
   <h1 style="font-size:2.2em;margin-top:10px;">Aku Bella  
     <span>
